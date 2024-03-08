@@ -49,6 +49,17 @@ section {
     text-align: center;
 
 }
+a{
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    color: white;
+
+}
 
 .texto {
     padding-top: 5%;
@@ -61,9 +72,14 @@ section {
 .batata {
     width: 13%;
 }
-
+table{
+    width: 1570px;
+}
+td{
+    text-align: justify;
+}
 footer {
     background-color: #680a1d;
-    text-align: center;
+    text-align: right;
     color: white;
 }
