@@ -1,1 +1,1 @@
-<h1 align="center">Ideia de cardapio</h1>
+<h1 align="center">Ideia de Cardápio</h1>
